@@ -1,2 +1,0 @@
-1. when page is reload automatically redirect home page.
-3. navbar

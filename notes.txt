@@ -1,3 +1,0 @@
-Sandhya news api key	->	db05f367358d45499b78de4206e44976
-
-testing news api key	->	b4585942f2544e37baf2f6b6e2743cc3
