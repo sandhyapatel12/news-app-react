@@ -32,7 +32,6 @@ const Navbar = () => {
                         <h1 className="font-bold text-2xl text-yellow-600">FASTNEWS</h1>
                         <i className="fa-solid fa-square-xmark text-2xl"></i>    {/* close icon */}
                     </div>
-
                     <div className="py-5 space-y-5 flex flex-col  px-8 w-fit ">
              
                         <NavLink to="/" exact className="text-yellow-600 font-bold border border-yellow-600 px-4 rounded-md py-1 hover:text-white transition duration-300"  activeClassName="bg-gray-900">General</NavLink>
