@@ -42,7 +42,6 @@ const Navbar = () => {
                         <NavLink to="/technology" className="text-yellow-600 font-bold border border-yellow-600 px-4 rounded-md py-1 hover:text-white transition duration-300"  activeClassName="bg-gray-900 ">technology</NavLink>
 
                     </div>
-
                   </div> 
                 ) : 
                 (
