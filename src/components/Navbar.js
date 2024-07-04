@@ -26,7 +26,7 @@ const Navbar = () => {
               <button className='lg:hidden text-white focus:outline-none' onClick={() => setisOpen(!isOpen)}>
                 {isOpen ? (
 
-                  <div className="z-8 lg:hidden inset-0 fixed items-center">
+                  <div className="z-10 lg:hidden inset-0 fixed items-center">
                   
                     <div className="nav-bar flex justify-between  mx-auto p-4 items-center">
                         <h1 className="font-bold text-2xl text-yellow-600">FASTNEWS</h1>
